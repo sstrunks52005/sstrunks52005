@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 
+![Blue And Orange Modern Stay Humble Facebook Cover (1)](https://user-images.githubusercontent.com/20957913/168485184-b7b9dfd4-03b0-423e-9a54-4c2840cd4f43.gif)
 
-<video src="https://user-images.githubusercontent.com/20957913/168483981-3e33414d-d727-4391-b289-b807df790a7a.mp4" width="100" height="100">
+
 
