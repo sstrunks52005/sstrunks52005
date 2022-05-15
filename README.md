@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<video src= "https://user-images.githubusercontent.com/20957913/168483981-3e33414d-d727-4391-b289-b807df790a7a.mp4" style = "max-height: 200px;> </video>
+
+
+<img src="https://user-images.githubusercontent.com/20957913/168483981-3e33414d-d727-4391-b289-b807df790a7a.mp4" width="100" height="100">
 
