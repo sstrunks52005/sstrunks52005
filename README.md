@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <p align = "center">
-<img src="https://user-images.githubusercontent.com/20957913/168485184-b7b9dfd4-03b0-423e-9a54-4c2840cd4f43.gif" width="850" height="320">
+<img src="https://user-images.githubusercontent.com/20957913/168485184-b7b9dfd4-03b0-423e-9a54-4c2840cd4f43.gif" width="800" height="320">
   </p>
 
 
