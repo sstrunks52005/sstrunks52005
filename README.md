@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://user-images.githubusercontent.com/20957913/168485184-b7b9dfd4-03b0-423e-9a54-4c2840cd4f43.gif" width="700" height="320">
+<img src="https://user-images.githubusercontent.com/20957913/168485184-b7b9dfd4-03b0-423e-9a54-4c2840cd4f43.gif" width="700" height="280">
   </p>
 
 - 👨‍💻 All of my projects are available at [https://bwandev.netlify.app/](https://bwandev.netlify.app/)
