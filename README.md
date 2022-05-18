@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sstrunks52005&show_icons=true&locale=en" alt="sstrunks52005" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sstrunks52005&" alt="sstrunks52005" /></p>
+<p align = "center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sstrunks52005&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="sstrunks52005" /></p>
 
 <p align="center">
   <a href="https://www.codewars.com/users/BW%20DEV/"><img src="https://www.codewars.com/users/BW%20DEV/badges/large"></a>
