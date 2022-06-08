@@ -6,6 +6,75 @@
 
 - 📫 How to reach me **bowiewan@gmail.com**
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Star Trek Aliens Reference</h3>
+        <br />
+        <a target="_blank" href="https://startrek-aliens-bwdev.netlify.app/">
+            <img src="https://media.giphy.com/media/aMmJ48fUCaVCix7R4D/giphy.gif" width="100%" alt="star trek alien"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/sstrunks52005/Star-Trek-Aliens-App.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://startrek-aliens-bwdev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Express.js, Javascript, & Node.js</strong> - Star Trek Aliens Reference - custom api allows you to look up species from Star Trek.</p>
+    </td>
+    
+ <!--
+    <td width="50%" valign="top">
+      <h3 align="center">Cinciao.vn: Platform As A Service</h3>
+        <br />
+        <a target="_blank" href="https://cinciao.vn/">
+          <img src="images/hiluan-cinciao-com.gif" width="100%" alt="Cinciao.vn: Platform As A Service"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://cinciao.vn" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Shopify, HTML5, CSS3, & Javascript</strong> - Cinciao allows Vietnamese celebrities to send personalized video messages to their fans and to FaceTime directly with them, anytime and anywhere.</p>
+    </td>
+-->
+  </tr>
+
+
+  <tr >
+      <h3 align="center">BW DEV's Portfolio</h3>
+      <br />
+        <p align="center">
+        <a target="_blank" href="https://bwandev.netlify.app/">
+<!--          <img src="images/hiluan-homepage-800.gif" width="100%" alt="BW DEV's Portfolio"/> -->
+        </a>
+      </p>
+      <br />
+<!--        <p align="center">
+  <a href="https://github.com/hiluan/hiluan-frontend" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://hiluan.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js, Redux, Sass, Javascript, Node.js, & Express.js</strong> - Portfolio Site including links to my projects and ways to get in contact with          me.</p>
+-->
+  </tr>
+
+</table>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bowiewandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bowiewandev" height="30" width="40" /></a>
